@@ -1,0 +1,62 @@
+{
+  "Adam": {
+    "data_sha256": "44fbfa0a49702381de36564d56e22af97dbf2d826f46aac031d546f2d4070fdf",
+    "source_checkpoint_sha256": "f391f856d8c012d37b3ec6cc54da3d150ce9c5e7bdb5c05bb4b21bfe9fe65ae1",
+    "checkpoint_sha256": "7d6a603c884bbd7e4147d1f6e9b7cd26790b4b46b3e3b203f5f72906f77d98dc",
+    "z_sha256": "8a63260f938d300b75c8a9da1baa4f49432a0219e6153a067b677d9d75f61972",
+    "zg_sha256": "4537cfa4c558315a13332d0e926525c6bf8bad82337eb50177e92e00dcbaebdc",
+    "n_cells": 3660,
+    "n_clusters": 8,
+    "checkpoint_bytes": 481040154
+  },
+  "Quake_10x_Limb_Muscle": {
+    "data_sha256": "b7ab5c0d84d2140e7b1f03dee963a5e0bf6c448aecbdb6d260d68e05d94168fe",
+    "source_checkpoint_sha256": "e5407ab5fb09a4505b80d8597479f70af40be88cc82d204becad5e12360a01c3",
+    "checkpoint_sha256": "b97d6d3447294af100ff89656a17bbd42e9015277e53a738a37ae2303e7b0979",
+    "z_sha256": "13aea5dfc4856dcece3c7409769dbfb0570c7fb79ae3b6f6af4f6f4e80f3449d",
+    "zg_sha256": "3b1d0550ed7e93835dad18ed369910b45a9ba587238479d32e717d303dfc816c",
+    "n_cells": 3909,
+    "n_clusters": 6,
+    "checkpoint_bytes": 526153126
+  },
+  "Quake_Smart-seq2_Diaphragm": {
+    "data_sha256": "7e689537006996ebd91c0c2f438bdc660021c78727ce001868eb396932d453fa",
+    "source_checkpoint_sha256": "836cfa64183e57cd1ceafadca0b9ecdc9ccee444d9841d071c1aa45a0fa3f303",
+    "checkpoint_sha256": "05b266a027566a8800b7c4d46798a7832e0e045c76a86de1caf834d5b2e10bfb",
+    "z_sha256": "40a769fc68036ff12566364568aa84210d3ed6ab47d36061f988efecafbf5fb5",
+    "zg_sha256": "cca054bc3fb60fcead86e3e16efce2e88014993f84ae3e230fc34a28765ab41f",
+    "n_cells": 870,
+    "n_clusters": 5,
+    "checkpoint_bytes": 177363298
+  },
+  "Quake_Smart-seq2_Limb_Muscle": {
+    "data_sha256": "22d93199f58b66feea9f4ac494358f9d2b417f80dc6c568f8dea7ec9997ea2d6",
+    "source_checkpoint_sha256": "fc74bd402115234ae8775dc68ff0c8071129fbefbf334696981285a89fc84fc9",
+    "checkpoint_sha256": "a5df489f2c204adca6522dac9655fcd6d7ba95049097da2643e1f89183eb324b",
+    "z_sha256": "3d47bcfdd302a676b6a2201a89ba46b621f6c507125d991cb9a98ddc8450ca4a",
+    "zg_sha256": "12ae677ece5802ce1e40293220f29423a64d79a585106b7179e206fdf48b698a",
+    "n_cells": 1090,
+    "n_clusters": 6,
+    "checkpoint_bytes": 185378810
+  },
+  "Quake_Smart-seq2_Trachea": {
+    "data_sha256": "d77aa45394a6c4cc2a8184b36fa169ae1ec2e27ff270437d67298c9542aff254",
+    "source_checkpoint_sha256": "06a048d9fac8d46afaf62e1b13da06199f22aa54d9e3267f14de365e276d3ab6",
+    "checkpoint_sha256": "4222e5541ccc914ec28465dcf2ab0426626fbf1bcd490030accb30c47a85a68c",
+    "z_sha256": "70b835b8a593da11a183e4d350aeaee04c41c293e511812e97202053b06e1879",
+    "zg_sha256": "f5e6c9677f5ac1789608819ee8c289163a9cb4c0c729f2b88699e5f4c710adbc",
+    "n_cells": 1350,
+    "n_clusters": 4,
+    "checkpoint_bytes": 202911946
+  },
+  "Romanov": {
+    "data_sha256": "06b9755d97564741d6c9821f7320d5c894304e6ace99aa6dc129ad22d7917982",
+    "source_checkpoint_sha256": "8c283349e64bb5f644cbd7cecc29ad7d7eb8e42795b8cfa8da4b69493fc8ad29",
+    "checkpoint_sha256": "b352342947bc7389c459d72e56e7a52145ace41326107f0599bb0ca40adb4584",
+    "z_sha256": "9bdcbd66961f88e5bb74f5d429ec124fa25fb0f7299a0969ca72d04b89edad90",
+    "zg_sha256": "ef2a90015f92137278b7f338c6d4b3162d658b22db090ad7c3ca49d469c99c8e",
+    "n_cells": 2881,
+    "n_clusters": 7,
+    "checkpoint_bytes": 355085246
+  }
+}
